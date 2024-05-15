@@ -11,7 +11,6 @@ Um sistema de gerenciamento de faculdade é essencial para a organização e oti
 * **Gerenciamento de Alunos:**
     * Cadastro de alunos
     * Gerenciamento de dados pessoais
-    * Histórico escolar
     * Matrícula em cursos
 * **Gerenciamento de Professores:**
     * Cadastro de professores
@@ -24,13 +23,6 @@ Um sistema de gerenciamento de faculdade é essencial para a organização e oti
 * **Gerenciamento de Turmas:**
     * Criação de turmas
     * Atribuição de professores e alunos
-    * Gerenciamento de frequência
-    * Lançamento de notas
-* **Gerenciamento de Notas:**
-    * Lançamento de notas por disciplina e turma
-    * Visualização de notas por aluno
-    * Cálculo de médias
-    * Emissão de boletins
 * **Gerenciamento de Usuários:**
     * Criação de usuários com diferentes perfis (administrador, professor, aluno)
     * Controle de acesso a funcionalidades
